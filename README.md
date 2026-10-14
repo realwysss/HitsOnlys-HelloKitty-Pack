@@ -6,8 +6,6 @@ shared by ways, discord: waystobe
 
 a hello kitty texture pack, edited by HitsOnly (credits are in the pack), shared by ways.
 
-pack format 75 (see pack.mcmeta for the supported formats)
-
 ![hand](screenshots/hand.png)
 
 ![blocks](screenshots/blocks.png)

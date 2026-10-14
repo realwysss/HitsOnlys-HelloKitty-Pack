@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget_misc_firestone_firestone_top"
+  }
+}

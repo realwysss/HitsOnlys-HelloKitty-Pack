@@ -11,3 +11,5 @@ a hello kitty texture pack, edited by HitsOnly (credits are in the pack), shared
 ![blocks](screenshots/blocks.png)
 
 ![armor](screenshots/armor.png)
+
+all rights reserved. made by wysss.
